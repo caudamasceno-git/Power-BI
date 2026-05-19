@@ -17,7 +17,7 @@ Aqui vai alguns Dashboards que produzi em Power BI após analisar dados totalmen
 </p>
 <img width="1305" height="801" alt="Captura de tela 2026-05-19 151611" src="https://github.com/user-attachments/assets/1bdb9dc3-a689-45c0-ae24-39db8f0b8ff1" />
 <img width="1303" height="799" alt="Captura de tela 2026-05-19 151637" src="https://github.com/user-attachments/assets/80d64bbb-2270-4cbf-89ce-6752ea9c1658" />
-<img width="1302" height="799" alt="Captura de tela 2026-05-19 151626" src="https://github.com/user-attachments/assets/93baf6be-badb-4b72-8e18-408b62f95aa4" />
+<img width="1306" height="801" alt="Captura de tela 2026-05-19 152655" src="https://github.com/user-attachments/assets/ecb17686-acc4-4e99-8408-73d43a3f29a5" />
 <img width="1301" height="798" alt="Captura de tela 2026-05-19 151648" src="https://github.com/user-attachments/assets/1a870329-2cf5-46b5-aeac-3d144374aff7" />
 
 
