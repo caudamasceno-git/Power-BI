@@ -7,7 +7,9 @@ Dashboard Comercial feito a base de dados para estudo, com o objetivo de esclare
 <img width="1409" height="789" alt="Captura de tela 2026-05-19 151505" src="https://github.com/user-attachments/assets/04830d6e-e523-48da-9fa7-3589d2439959" />
 </p>
 </p>
-
+-
+-
+-
 Exemplo de Dahsboard Interativo, com mudança de cor e parte analítica, sendo mais eficaz para analisar os dados fornecidos. Mostra dados gerais de uma empresa. (Dados não são reais)
 </p>
 <img width="1305" height="801" alt="Captura de tela 2026-05-19 151611" src="https://github.com/user-attachments/assets/1bdb9dc3-a689-45c0-ae24-39db8f0b8ff1" />
