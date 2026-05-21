@@ -1,4 +1,4 @@
-# Power-BI
+# Dashboards Power-BI
 Aqui vai alguns Dashboards que produzi em Power BI após analisar dados totalmente para estudo e treino
 
 
